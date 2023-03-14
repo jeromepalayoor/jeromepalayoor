@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeromepalayoor&layout=compact)](https://github.com/jeromepalayoor)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jeromepalayoor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 -------
 - 🔭 I’m currently working on [a project for computing class](https://github.com/jeromepalayoor/savingtheworld1)
 - 🌱 I’m currently learning Flask Web Dev and Vue.JS

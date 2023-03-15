@@ -1,4 +1,6 @@
-### Jerome Palayoor
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Jerome+Palayoor!)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+page!;Hope+you+enjoy+it+here!)
 
 --------
 

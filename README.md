@@ -11,12 +11,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=jeromepalayoor&theme=onedark)
 
 -------
-- 🔭 I’m currently working on [Vue.js 3 Learning Project](https://github.com/jeromepalayoor/first-vue-project/tree/main)
-- 🌱 I’m currently learning Flask Web Dev and Vue.JS and Bootstrap
-- 👯 I’m looking to collaborate on anything (HMU)
-- 🤔 I’m looking for help with Vue.JS
-- 💬 Ask me about Python
+- 🌱 I’m currently learning and Vue.JS and Bootstrap
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with Vue.JS, PWA 
 - 📫 How to reach me: queries@jeromepalayoor.com
-- 😄 Pronouns: he/he
-- ⚡ Fun fact: I love math and code
 - ------

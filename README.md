@@ -16,3 +16,5 @@
 - 🤔 I’m looking for help with Vue.JS, PWA 
 - 📫 How to reach me: queries@jeromepalayoor.com
 - ------
+
+Quote by me: `If you are scared to sleep alone, then don't sleep. -Jerome 2023`

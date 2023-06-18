@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Jerome+Palayoor!)
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+page!;Hope+you+enjoy+it+here!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Jerome+Palayoor!)
 
 --------
 
@@ -11,10 +9,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=jeromepalayoor&theme=onedark)
 
 -------
-- 🌱 I’m currently learning and Vue.JS and Bootstrap
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with Vue.JS, PWA 
-- 📫 How to reach me: queries@jeromepalayoor.com
+- 📫 Reach me at `contact@jeromepalayoor.com`
 - ------
 
 Quote by me: `If you are scared to sleep alone, then don't sleep. -Jerome 2023`

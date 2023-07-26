@@ -12,4 +12,4 @@
 - 📫 Reach me at `contact@jeromepalayoor.com`
 - ------
 
-Quote by me: `If you are scared to sleep alone, then don't sleep. -Jerome 2023`
+Quote by me: `c00k1e{g0_sl33p_eveN_1f_y0u_aR3_4fRaId}. -Evil Jerome 2023`
